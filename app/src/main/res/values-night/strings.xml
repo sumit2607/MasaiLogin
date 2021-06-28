@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="use_phone_number">Use Phone Number</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="continue_with_face_book">Continue With Face book</string>
+    <string name="continue_with_Google" />
+</resources>
